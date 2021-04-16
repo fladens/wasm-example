@@ -353,6 +353,8 @@ There are also a lot of crypto packages that are ready to go.
 There is a lot out there about WebAssembly
 
 * https://developer.mozilla.org/en-US/docs/WebAssembly/Concepts
+* https://github.com/WebAssembly/proposals
+* https://github.com/WebAssembly/spec
 * https://github.com/mbasso/awesome-wasm
 * https://github.com/appcypher/awesome-wasm-langs
 * https://codeburst.io/getting-started-with-react-and-webassembly-using-hooks-441818c91608
