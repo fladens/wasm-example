@@ -1,0 +1,12 @@
+{
+  "name": "wasm-c",
+  "collaborators": [
+    "Fabian Schnider <fabian@meisterlabs.com>"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "c.mjs"
+  ],
+  "module": "c.mjs",
+  "sideEffects": false
+}
