@@ -29,7 +29,7 @@
 
 ## What is this?
 
-Like everybody right now I saw a lot of articles about WebAssembly, the future and what it will bring. I became pretty interested in the idea of running other programming languages than javascript in a browser and what this could mean for development and performance of websites in the future.
+Like everybody I saw a lot of articles about WebAssembly, the future and what it will bring. I became pretty interested in the idea of running other programming languages than javascript in a browser and what this could mean for development and performance of websites in the future.
 But as with every hyped new technology I first wanted to try where we at and what is already possible.
 
 After reading some more there seems to be 3 languages that get the most traction:
