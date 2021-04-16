@@ -256,7 +256,7 @@ createModule()
   });
 
 const fib = function(num) {
-  return wasm.Module.ccall(
+  return Module.ccall(
     'fib',
     'number',
     ['number'],
