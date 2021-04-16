@@ -307,18 +307,21 @@ I have the `performance` folder which runs all functions a specified amount (def
 ### Bubble browser comparison
 We can see how different the execution time for the different browsers is
 
-// Add chart
+![bubble](https://user-images.githubusercontent.com/36959878/115025461-af307f80-9ec1-11eb-8576-3e60733de285.png)
+
 
 ### Total
 
-// Add chart
+
+![total](https://user-images.githubusercontent.com/36959878/115025482-b48dca00-9ec1-11eb-8e25-15215f486815.png)
 
 
 ### Median
 
 All 0's are just where the execution was so quick that `performance.now()` return was too small and was rounded to 0.
 
-// Add chart
+
+![median](https://user-images.githubusercontent.com/36959878/115025513-bce60500-9ec1-11eb-8d8a-4534842b75d7.png)
 
 
 ## Conclusion
